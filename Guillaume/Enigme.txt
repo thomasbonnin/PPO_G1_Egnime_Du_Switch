@@ -1,6 +1,49 @@
 Enigme : 
 
-4 couleurs 
+4 couleurs Noir, bleu, blanc, jaune
 
 une action pour chaque ports 
 l'entrée de chaque ports est le départ de la suivante 
+
+
+Doser la difficulté
+
+Il y a trois critères à prendre en compte dans la difficulté :
+
+    -les connaissances de son public : le but n’est pas de demander de faire des divisions si on a des enfants qui n’ont pas étudié cette opération en cours, de demander de prendre un azimut quand on ne sait pas ce qu’est un angle, etc.
+    -l’effectif : une alliance de plusieurs cerveaux sera plus forte qu’un cerveau solitaire.
+    -l’expérience de son public : connaitre ses jeunes est un atout fort. Mais la capacité peut varier aussi en fonction de l’expérience du public : sont-ils habitués à des énigmes ? Sont -ils débutants dans ce domaine ? etc.
+
+Beaucoup de jeux à base d’énigmes échouent car elles sont d’un niveau trop élevé, ou trop inattendu. Quand c’est trop facile, le jeu peut finir en 10 minutes au lieu d’1 heure. Gênant.
+
+Ce dosage est donc très important. Aux cas où, nous pouvons prévoir un système de joker, qui permet de demander de l’aide en cas de difficulté. Voire de méchants, qui viennent parasiter le jeu et complexifier les énigmes (vol de décodeur, énigme impromptue …).
+
+
+Construire un scénario
+
+L’énigme est rarement seule. Elle fait souvent l’objet d’un enchaînement d’énigmes :
+
+    -plusieurs énigmes enchaînées donnent des indices vers une énigme finale,
+    -plusieurs énigmes amènent à une énigme finale.
+
+Il devient ensuite nécessaire de préparer un scénario :
+
+    -un début : très important, il lance le jeu, place dans l’ambiance, un univers ou un imaginaire. Il oriente et motive. Il peut aussi placer les enjeux. Première énigme simple, message avec lettres de papier journal collés dessus, vidéo envoyée par mail, autant de choses qui vont placer le jour dans le défi.
+    -des enchaînements : comment passe-t-on d’une énigme à l’autre, quel est le but ?
+    -il a une fin : l’énigme finale. Comment est-elle alimentée ? Quel sera la victoire ?
+
+Cette construction peut se faire sous forme de schéma pour bien poser ses idées sur le papier avant de se lancer dans le contenu de l’énigme lui-même.
+
+
+Les énigmes objets
+
+Armoire à clé, cadenas, pile qui se dévisse, papier dans une boite à sucre, etc. Qu’ils soient achetés ou bricolés, ou détournés, les objets sont de bons outils amusants pour des énigmes.
+
+Un grand classique par exemple est d’exploiter un livre, dans une page duquel se trouvera un indice.
+
+
+Les énigmes sans objet
+
+Des messages énigmatiques, des devinettes, charades sont de bonnes bases. On peut aussi utiliser nos grands classiques comme les codes scouts.
+
+Pour cela, rien de plus simple avec notre codeur décodeur … Pour coder bien sûr. Ne donnons pas l’info qu’il permet aussi de décoder, cela reste entre nous.
