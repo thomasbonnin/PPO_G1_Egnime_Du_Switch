@@ -1,0 +1,71 @@
+<footer role="contentinfo" class="container-fluid footer bg_horiz_grad_pink padded relative">
+<div class="incline-container">
+<div class="incline bg_horiz_grad_pink "></div>
+</div>
+<div class="container relative">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<img src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/images/logo2.png" alt="Ensemble St Félix-La Salle">
+<address>
+OGEC NANTES ERDRE<br>
+27 rue du Ballet - BP 60105<br> 
+44001 NANTES Cedex 1
+</address>
+<p><a href="tel:0244763500"><strong>Tél. 02 44 76 35 00</strong></a></p>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-3">
+<h4 class="white bold text-uppercase">Informations</h4>
+<ul>
+<li class=""><a href="https://stfelixlasalle.fr/general/le-reseau-la-salle-france.html">Réseau La Salle</a></li>
+<li><a href="https://stfelixlasalle.fr/infos-pratiques">Contact et plan d'accès</a></li>
+<li><a href="https://stfelixlasalle.fr/general/inscriptions-infos-pratiques/inscriptions.html">Inscriptions</a></li>
+<li><a href="https://stfelixlasalle.fr/general/tarifs-aides-sociales.html">Tarifs</a></li>
+<li><a href="https://stfelixlasalle.fr/general/projet-detablissement-5-2.html">Projet d'établissement</a></li>					
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-3">
+<h4 class="white bold text-uppercase">Nos structures</h4>
+<ul>
+<li><a href="https://stfelixlasalle.fr/etablissement/college-le-bon-conseil">Collège Le Bon Conseil</a></li>
+<li><a href="https://stfelixlasalle.fr/etablissement/college-saint-donatien">Collège St Donatien</a></li>
+<li><a href="https://stfelixlasalle.fr/etablissement/voie-generale-technologique">Lycée Général et Technologique</a></li>
+<li><a href="https://stfelixlasalle.fr/etablissement/lycee-professionnel">Lycée Professionnel</a></li>	
+<li><a href="https://stfelixlasalle.fr/etablissement/campus">Campus</a></li>					
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-3 follow">
+<h4 class="white bold text-uppercase">Suivez-nous sur</h4>
+<ul class="list-inline social_link">
+<li><a href="https://twitter.com/stfelixlasalle" target="_blank">
+<span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-twitter fa-stack-1x fa-inverse"></i> </span> 
+</a></li>
+<li><a href="https://www.facebook.com/stfelixlasalle" target="_blank">
+<span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-facebook fa-stack-1x fa-inverse"></i> </span> 
+</a></li>
+<li class="hidden"><a href="https://stfelixlasalle.fr/college/college-st-donatien/ateliers-du-midi-2.html" target="_blank">
+<span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-instagram fa-stack-1x fa-inverse"></i> </span> 
+</a></li>	
+<li class="hidden"><a href="https://stfelixlasalle.fr/college/college-st-donatien/ateliers-du-midi-2.html" target="_blank">
+<span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-youtube fa-stack-1x fa-inverse"></i> </span> 
+</a></li>
+<li><a href="https://www.linkedin.com/school/st-f%C3%A9lix-la-salle/" target="_blank">
+<span class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i> </span> 
+</a></li>					
+</ul>
+</div>			
+</div>
+<img src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/images/transparent-star.png" alt="" class="img-responsive transparent-star">
+</div>
+<hr>
+<div class="container last_footer">
+<div class="row">
+<div class="col-sm-12 col-md-8">
+<p><span class="text-uppercase">ensemble st félix-la-salle © 2019</span> - Tous droits réservés  - <a href="https://stfelixlasalle.fr/mentions-legales">Mentions légales</a>  -  <a href="https://stfelixlasalle.fr/plan-du-site">Plan du site</a></p>
+</div>
+<div class="col-sm-12 col-md-4 text-right">
+<img src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/images/etablissement-international.png" alt="">
+<img src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/images/erasmus.png" alt="">				
+</div>			
+</div>
+</div>
+</footer>
