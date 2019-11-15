@@ -1,2 +1,5 @@
 18/10/2019
 Enigme conception une embauche est créer 
+
+08/11/2019
+Enigme fini et mise au propre / recherche de solution pour le code / code pour ping une adresse trouvé et fonctionnel / tentative de faire une boucle pour les 4 ip
