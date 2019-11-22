@@ -1,0 +1,14 @@
+INPUT(
+./.obj\main.o
+./.obj\fenetreprincipale.o
+./.obj\enigmebutton.o
+./.obj\bddinterface.o
+./.obj\enigme.o
+./.obj\utils.o
+./.obj\enigmelabel.o
+./.obj\ensembleenigmesboutons.o
+./.obj\serveur.o
+./.obj\qrc_ressources.o
+./.obj\moc_fenetreprincipale.o
+./.obj\moc_serveur.o
+);
