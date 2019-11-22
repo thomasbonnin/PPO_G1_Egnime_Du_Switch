@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Me &mdash; Website Template by Colorlib</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <link href="https://fonts.googleapis.com/css?family=Arbutus+Slab|Open+Sans:300,400,700" rel="stylesheet">
+        <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/jquery-ui.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+        <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+
+        <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+        <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+        <link rel="stylesheet" href="css/aos.css">
+
+        <link rel="stylesheet" href="css/style.css">
+
+    </head>
+    <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+        <div class="site-wrap">
+                <div class="container-fluid">
+                        <div class=" text-center mx-5">
+                            <h1 class="m-0 site-logo"><a href="index.html"></a></h1>
+                            <img src="images/logo.png" alt="Image" data-aos="fade">
+                        </div>
+                    </div>
+                </div>
+
+            <div class="site-blocks-cover overlay bg-light" id="home-section">
+
+                <div class="container">
+                    <div class="row justify-content-center">
+
+                        <div class="col-md-12 mt-lg-5 text-left align-self-center text-intro">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <h1 class="text-black">Saint Felix La Salle</h1>
+                                    <p class="lead">Epreuve PPO</p>
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <img src="images/giphy.gif" alt="Image" class="img-face" data-aos="fade">
+                <img src="images/giphy2.gif" alt="Image" class="img-face2" data-aos="fade">
+
+            </div>  
+
+            <footer role="contentinfo" class="container-fluid footer bg_horiz_grad_pink padded relative">
+                <div class="incline-container">
+                    <div class="incline bg_horiz_grad_pink "></div>
+                </div>
+                <div class="container relative">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-4 col-md-3">
+                            <img src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/images/logo2.png" alt="Ensemble St Félix-La Salle">
+                            <address>
+                                OGEC NANTES ERDRE<br>
+                                27 rue du Ballet - BP 60105<br> 
+                                44001 NANTES Cedex 1
+                            </address>
+                            <p><a href="tel:0244763500"><strong>Tél. 02 44 76 35 00</strong></a></p>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-3">
+                            <h4 class="white bold text-uppercase">Informations</h4>
+                            <ul>
+                                <li class=""><a href="https://stfelixlasalle.fr/general/le-reseau-la-salle-france.html">Réseau La Salle</a></li>
+                                <li><a href="https://stfelixlasalle.fr/infos-pratiques">Contact et plan d'accès</a></li>
+                                <li><a href="https://stfelixlasalle.fr/general/inscriptions-infos-pratiques/inscriptions.html">Inscriptions</a></li>
+                                <li><a href="https://stfelixlasalle.fr/general/tarifs-aides-sociales.html">Tarifs</a></li>
+                                <li><a href="https://stfelixlasalle.fr/general/projet-detablissement-5-2.html">Projet d'établissement</a></li>					
+                            </ul>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-3">
+                            <h4 class="white bold text-uppercase">Nos structures</h4>
+                            <ul>
+                                <li><a href="https://stfelixlasalle.fr/etablissement/college-le-bon-conseil">Collège Le Bon Conseil</a></li>
+                                <li><a href="https://stfelixlasalle.fr/etablissement/college-saint-donatien">Collège St Donatien</a></li>
+                                <li><a href="https://stfelixlasalle.fr/etablissement/voie-generale-technologique">Lycée Général et Technologique</a></li>
+                                <li><a href="https://stfelixlasalle.fr/etablissement/lycee-professionnel">Lycée Professionnel</a></li>	
+                                <li><a href="https://stfelixlasalle.fr/etablissement/campus">Campus</a></li>					
+                            </ul>
+                        </div>
+
+                    </div>
+
+                </div>
+                <hr>
+                <div class="container last_footer">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-8">
+                            <p><span class="text-uppercase">ensemble st félix-la-salle © 2019</span> - Tous droits réservés  - <a href="https://stfelixlasalle.fr/mentions-legales">Mentions légales</a>  -  <a href="https://stfelixlasalle.fr/plan-du-site">Plan du site</a></p>
+                        </div>
+                        <div class="col-sm-12 col-md-4 text-right">
+                            <img src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/images/etablissement-international.png" alt="">
+                            <img src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/images/erasmus.png" alt="">				
+                        </div>			
+                    </div>
+                </div>
+            </footer>
+
+
+
+
+            <!-- .site-wrap -->
+            
+
+            <script src="js/jquery-3.3.1.min.js"></script>
+            <script src="js/jquery-ui.js"></script>
+            <script src="js/popper.min.js"></script>
+            <script src="js/bootstrap.min.js"></script>
+            <script src="js/owl.carousel.min.js"></script>
+            <script src="js/jquery.easing.1.3.js"></script>
+            <script src="js/aos.js"></script>
+            <script src="js/jquery.fancybox.min.js"></script>
+            <script src="js/jquery.sticky.js"></script>
+            <script src="js/isotope.pkgd.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+            <script src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/js/bootstrap.min.js"></script> 
+            <script type="text/javascript" src="https://stfelixlasalle.fr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4"></script> 
+            <script type="text/javascript" src="https://stfelixlasalle.fr/wp-includes/js/wp-embed.min.js?ver=5.2.3"></script> 
+            <script src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/js/jquery.bxslider.min.js"></script> 
+            <script src="https://stfelixlasalle.fr/wp-content/themes/wordpress-bootstrap-master/js/js.cookie.js"></script> 
+            <script src="https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js"></script> 
+
+            <script src="js/main.js"></script>
+
+    </body>
+</html>

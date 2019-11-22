@@ -1,0 +1,45 @@
+
+
+
+/* Blocks titre saint felix ppo  */
+
+
+  .site-blocks-cover.overlay {
+    position: relative; }
+
+      @media (max-width: 1000px) {
+        .site-blocks-cover.overlay:before {
+           } }
+  .site-blocks-cover, .site-blocks-cover > .container, .site-blocks-cover > .container > .row {
+    min-height:40px;
+    height:40vh; }
+  .site-blocks-cover .text-intro {
+    position: relative;
+    z-index: 2; }
+  .site-blocks-cover h1 {
+    font-size: 3rem;
+    font-family: "Arbutus Slab", serif; }
+  .site-blocks-cover .img-face {
+    position: absolute;
+    right: 20%;
+    top: 50%;
+    bottom: 0;
+    z-index: 1;
+    max-width: 200px; }
+    @media (max-width:100px) {
+      .site-blocks-cover .img-face {
+        right: -25%; } }
+    
+    .site-blocks-cover .img-face2 {
+    position: absolute;
+    right: 35%;
+    top: 50%;
+    bottom: 0;
+    z-index: 1;
+    max-width: 200px; }
+    @media (max-width: 1000px) {
+      .site-blocks-cover .img-face2 {
+        right: -25%; } }
+    
+
+
