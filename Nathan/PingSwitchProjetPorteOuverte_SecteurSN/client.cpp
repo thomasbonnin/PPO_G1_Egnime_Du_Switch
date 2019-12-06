@@ -28,7 +28,7 @@ Client::Client()
     m_tcpSocket->abort();
 
     // connexion au serveur sur le port 53000
-    m_tcpSocket->connectToHost( QHostAddress("127.0.0.1").toString(),53000 );
+    m_tcpSocket->connectToHost( QHostAddress("10.16.3.214").toString(),53000 );
     envoiTexte("GAGNE:1");
 }
 
