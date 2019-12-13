@@ -16,7 +16,7 @@ int main ( int argc, char *argv[] )
     string saisie =" ";
 
 
-    while (saisie != "1234"){
+    while (saisie != "2022"){
 
 
       cout << "Veuillez saisir le code afficher a l ecran : \n" << endl;
